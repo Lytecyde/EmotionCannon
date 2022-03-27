@@ -1,2 +1,2 @@
 # EmotionCannon
-perpetual music shooting machine
+perpetual music machine
